@@ -1,19 +1,20 @@
-## Olá! Eu sou o Rafael Dias
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0891B2&multiline=true&width=800&height=90&lines=Welcome+to+my+profile+)
+==============================================
 
-- 🌱 Studying JavaScript
-- 🤔 I’m looking for help with: Java
+* 🌍  I'm based in Brasil
+* 🌱 Studying JavaScript
+* 🤔 I’m looking for help with: Java
+* ✉️  You can contact me at: [rafadiasnascentes@gmail.com](mailto:rafadiasnascentes@gmail.com)
 
-  <div style="display: inline_block"><br>
-  <a href="https://github.com/rafinhads">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
+### Skills
+
+<p align="left">
+<img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+                <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+                <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
+</p>
+
   ##
  
 <div> 
