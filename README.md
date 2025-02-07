@@ -10,9 +10,9 @@
 
 <p align="left">
 <img id="skill-icon" height="70px" width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
+                <img id="skill-icon" height="70px" width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" /> 
                 <img id="skill-icon" height="70px" width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
                 <img id="skill-icon" height="70px" width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" />
-                <img id="skill-icon" height="70px" width="70px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" /> 
                 <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                 <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
 </p>
