@@ -9,7 +9,7 @@
 ### Skills
 
 <p align="left">
-<img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/npm/icon-sdk-js@1.5.3/build/icon-sdk-js.web.min.js" />
                 <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                 <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                 <img id="skill-icon" height="70px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />    
