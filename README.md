@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&color=0891B2&multiline=true&width=800&height=90&lines=Welcome+to+my+profile+)
 ==============================================
 
-* 🌍  I'm based in Brasil
-* 🌱 Studying JavaScript
+* 🌍  I'm based in Brazil
+* 🌱 Studying Java
 * 🤔 I’m looking for help with: Java
 * ✉️  You can contact me at: [rafadiasnascentes@gmail.com](mailto:rafadiasnascentes@gmail.com)
 
